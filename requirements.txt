@@ -1,0 +1,8 @@
+streamlit~=1.45.0
+pandas~=2.2.3
+plotly~=6.0.1
+geopandas
+watchdog
+numpy~=2.2.5
+seaborn
+matplotlib
