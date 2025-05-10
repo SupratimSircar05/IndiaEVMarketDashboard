@@ -109,12 +109,7 @@ The dashboard offers eight interactive tabs, each providing unique insights into
 
 ## Deployment
 
-The dashboard is deployed on [Streamlit Cloud](https://streamlit.io/cloud) and can be accessed at [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app). To deploy your own instance:
-
-1. Push the repository to GitHub.
-2. Connect the repository to Streamlit Cloud via the [Streamlit Community Cloud](https://streamlit.io/cloud).
-3. Configure the app to use `streamlit_app.py` and ensure dataset files are included.
-4. Verify that all visualizations and filters work as expected.
+The dashboard is deployed on Streamlit Cloud and can be accessed at [India EV Market Dashboard]([https://your-app-url.streamlit.app](https://indiaevmarketdashboard-supratim-sircar.streamlit.app/).
 
 ## Technologies Used
 
