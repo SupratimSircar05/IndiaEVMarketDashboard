@@ -111,6 +111,9 @@ The dashboard offers eight interactive tabs, each providing unique insights into
 
 The dashboard is deployed on Streamlit Cloud and can be accessed at [India EV Market Dashboard](https://indiaevmarketdashboard-supratim-sircar.streamlit.app/).
 
+## Video Presentation Link
+[Demo video](https://drive.google.com/file/d/1ReVKX9ESKuPSWDTsWR5_whshzaH0w2v_/view?usp=sharing)
+
 ## Technologies Used
 
 - [Streamlit](https://streamlit.io/): Interactive web application framework.
